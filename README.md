@@ -86,18 +86,5 @@ The model used Transfer Learning using MobileNetv2 (The parameters were freezed)
 
 :small_blue_diamond: The model is having a hard time to detect dark masks, I tried to improve it by adding some dark mask images but somhow, the model started giving false positive to by beard face. :stuck_out_tongue:
 
-<hr>
 
-## :purple_heart: Thank You
-
-Resources, study material and everything in between -
-
-<a href="https://www.coursera.org/specializations/deep-learning"> Deep Learning Specialization </a> I learned deep learning from here, after completing the 4th Course, I decided to start this project.<br>
-
-<a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh"> PyTorch Crash Couse </a> - By Sentdex. I learned Pytorch from here. Really awesome playlist with to the point explanation. <br>
-
-<a href = "https://pytorch.org/hub/pytorch_vision_mobilenet_v2/"> MobileNet with Pytorch </a> I used official documentations as a reference for transfer learning. <br>
-
-<a href = "https://github.com/chandrikadeb7/Face-Mask-Detection"> Chandrika Deb's Mask Detector </a> It is a similar project, so whenever I was lost, I used this as a reference. Also the Readme of this project is heavily inspired by her's<br>
-
-PS-I recently learned deep learning, so there may be a better approch to this project. Any kind of improvement or suggestions are most welcomed.
+ 
